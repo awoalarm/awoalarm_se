@@ -1,2 +1,2 @@
-# awoalarm_se
+# Arduino Alarm
 Arduino baserat alarm system
