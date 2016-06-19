@@ -1,4 +1,4 @@
 # Arduino Alarm
 Arduino baserat alarm system framtaget av Andreas Olsson<BR>
-Källkoden är fortfarande under utveckling och förväntas släppas under juli månad.
+Källkoden är fortfarande under utveckling och förväntas släppas under juli månad.<BR>
 För mer information vänligen besök http://www.awoalarm.com
